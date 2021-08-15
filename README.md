@@ -1,1 +1,2 @@
-# django-rest-api_auth
+run project - 
+python manage.py runserver
